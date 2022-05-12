@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c7f391c-7061-4e0b-821a-71de1c0b4a69": {
+      "ProjectGuid": "4c7f391c-7061-4e0b-821a-71de1c0b4a69",
+      "DisplayName": "ConciliacionCasetas",
+      "ColorIndex": 0
+    },
+    "0c7c11ba-a6f1-4109-a45c-72c6b141cb35": {
+      "ProjectGuid": "0c7c11ba-a6f1-4109-a45c-72c6b141cb35",
+      "DisplayName": "Data",
+      "ColorIndex": 1
+    },
+    "983480c9-fbba-4324-8bab-e253b7bafc49": {
+      "ProjectGuid": "983480c9-fbba-4324-8bab-e253b7bafc49",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
